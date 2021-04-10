@@ -1,0 +1,53 @@
+Trabalho 2
+
+Criatividade:
+Você deve criar um contexto de utilização, deve imaginar um negócio, como:
+ uma padaria, uma locadora de veículos, uma Clínica médica, etc.
+
+Qualquer empreendimento que você idealize deverá ter o cadastro de algo 
+e junto com os cadastros, possíveis ações referentes ao empreendimento.
+
+Exemplo:
+Escola: Possui um cadastro de alunos, controle de notas, frequência, etc.
+
+
+Após criar um contexto de utilização, você deve desenvolver um software em JAVA que possua os seguintes itens:
+
+1 – Classe interna com pelo menos 4 atributos, sendo pelo menos 1 de um Tipo Abstrato de dados(outra classe).
+
+2 – Os dados do seu cadastro devem ser solicitados ao usuário já no início da operação do sistema.
+
+3 – Deve possuir um vetor com o tipo de dados da classe interna citada no item 1
+4 – O tamanho do vetor deve ser solicitado pelo usuário.
+
+5 – Todo o processamento deve ser feito dentro de subrotinas.
+
+6 – Deve possuir ao menos uma subrotina do tipo procedimento.
+7 – Deve possuir ao menos uma subrotina do tipo função.
+8 – Deve possuir ao menos uma subrotina com passagem de parâmetro por valor
+9 – Deve possuir ao menos uma subrotina com passagem de parâmetro por referência.
+
+10 – Seja criativo, pois o contexto criado também será avaliado.
+11 – Não esqueça de colocar o bloco de comentários no início do software com a descrição do contexto criado.
+
+
+
+Sistema de 
+
+Reservas de Hotel
+  - Clientes
+  - Quartos
+  - Reservas
+  
+Sistema de Salários
+
+
+
+- Cadastro de Pessoas
+
+- Pesquisar 
+    - Pessoas por Nome
+
+- Relatórios
+    - Porcentagem de Feminino / Masculino
+    - 
